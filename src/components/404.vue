@@ -19,11 +19,11 @@
           </v-list-item-avatar>
 
           <v-list-item-content>
-            <v-list-item-title>Admin</v-list-item-title>
+            <v-list-item-title>Izza Zaheer</v-list-item-title>
           </v-list-item-content>
 
           <v-row align="center" justify="end">
-            <router-link to="/dashboard">
+            <router-link to="/customer">
               <v-icon class="mr-1" link="dashboard" router>mdi-home</v-icon>
             </router-link>
             <span class="mr-1">·</span>

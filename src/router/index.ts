@@ -31,7 +31,7 @@ const routes: Array<RouteConfig> = [
   { path: "/404", component: ErrorPage, name: "ErrorPage" },
   {
     path: "/dashboard",
-    component: Dashboard,
+    component: CustomerList,
     name: "dashboard",
     beforeEnter: requireAuth
   },
